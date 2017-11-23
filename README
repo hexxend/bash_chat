@@ -1,0 +1,14 @@
+BASH CHAT for Linux Terminal Emulators
+by Hexxend
+started 2015
+currently a wip
+
+DEPENDS ON
+lolcat
+toilet
+xterm and xfce4-terminal
+
+TODO;
+add support for more terminal emulators
+
+
